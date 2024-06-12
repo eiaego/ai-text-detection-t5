@@ -1,0 +1,6 @@
+F1 score: 0.9038854805725972
+Precision: 0.8261682242990654
+Recall (True Positive Rate): 0.9977426636568849
+Specificity (True Negative Rate): 0.6960784313723216
+False Positive Rate: 0.30392156862735165
+Accuracy: 0.8744993324432577

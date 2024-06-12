@@ -1,0 +1,6 @@
+F1 score: 1.0
+Precision: 1.0
+Recall (True Positive Rate): 1.0
+Specificity (True Negative Rate): 0.9999999999997016
+False Positive Rate: 0.0
+Accuracy: 1.0
